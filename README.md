@@ -1,5 +1,5 @@
 # venkatrepository
 Testing
 I am Venkat
-Testing the repository
+Testing the regit pository
 Git in vs code
